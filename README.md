@@ -1,0 +1,2 @@
+# fordBellman
+Demo fordBellman algorithm
